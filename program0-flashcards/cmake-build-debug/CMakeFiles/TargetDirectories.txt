@@ -1,0 +1,3 @@
+C:/Users/ikbro/Downloads/program0-flashcards/program0-flashcards/cmake-build-debug/CMakeFiles/flashcards.dir
+C:/Users/ikbro/Downloads/program0-flashcards/program0-flashcards/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ikbro/Downloads/program0-flashcards/program0-flashcards/cmake-build-debug/CMakeFiles/rebuild_cache.dir
